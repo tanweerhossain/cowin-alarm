@@ -8,7 +8,7 @@
 ## **Install Dependencies**
     npm i
 ## **Start Watcher**
- * ### Change fin file: **./constants.mjs: "Mention Properly"** based on
+ * ### Change file: **./constants.mjs: "<a href="https://github.com/tanweerhossain/cowin-alarm/blob/master/constants.mjs#L3250">Mention Properly</a>"** based on
     * specific state(s)|district(s)
     * minAge
     * available_capacity_dose
