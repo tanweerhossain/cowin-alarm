@@ -17,5 +17,5 @@
  * ### **To Specific States|Districts Slots**
     * **npm start**
 
- * #### **To Watch All Country Slots**
+ * #### **To Watch All States Slots**
     * **npm start -- ALL**
