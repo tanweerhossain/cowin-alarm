@@ -1,7 +1,7 @@
 # **Brief Description**
  This system acts like a system alarm based on the availability of any vaccine slots in selected areas.
  * ## **Limitation**
-    1. Once the alarm will appear, then the user has to close the alarm manally even if the slots will disappear in few seconds as well.
+    1. Once the alarm will appear, then the user has to close the alarm manually even if the slots will disappear in few seconds as well.
     2. If the user closed the alarm manually, and wishes to reinitiate during the next slot availability, then the user has to terminate this process _( Ctrl + c )_ an re-run the **Watcher** as mentioned below.
 ## **Requirements**
     Node.js v12
